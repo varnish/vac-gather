@@ -7,9 +7,9 @@
 7. Get logs
 8. Get mongo data.
 9. VAC logs in /var/opt/vac/log/
-- vac.log
-- vac-stderr.log
-- vac-stdout.log
+  - vac.log
+  - vac-stderr.log
+  - vac-stdout.log
 10. VAC process running parameters
 
 ...
